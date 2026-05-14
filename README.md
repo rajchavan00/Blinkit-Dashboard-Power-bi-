@@ -36,5 +36,5 @@ Health & Preference Trends: Donut and stacked bar charts analyzing the distribut
 Outlet Performance Matrix: A detailed tabular view comparing different store types (Supermarket Type 1, 2, 3, and Grocery Stores) against key metrics like Total Sales, Average Sales, and Item Visibility.
 
 6. Screenshot / Demos
-   this is what the dashboard looks like :-
+   this is what the dashboard looks like :- [Blinkit Dashboard]([https://githubusercontent.com](https://raw.githubusercontent.com/rajchavan00/Blinkit-Dashboard-Power-bi-/refs/heads/main/Blinkit-Dashboard.png))
  Example : https://github.com/rajchavan00/Blinkit-Dashboard-Power-bi-/blob/main/Blinkit-Dashboard.png
