@@ -1,4 +1,6 @@
 Blinkit Sales Performance Dashboard 🛒📊
+
+
 Description
 This project is an interactive Power BI dashboard that tracks and analyzes the sales performance, inventory distribution, and customer ratings for Blinkit (India's Last Minute's App). The goal of this analysis was to uncover actionable business insights regarding outlet growth, item performance, and consumer preferences across various store types and tier locations.
 
