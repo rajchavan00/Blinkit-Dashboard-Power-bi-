@@ -34,3 +34,7 @@ Horizontal bar charts breaking down the top-performing item types (with Fruits/V
 Health & Preference Trends: Donut and stacked bar charts analyzing the distribution of "Low Fat" vs. "Regular" items across the entire network and filtered by specific outlet tiers.
 
 Outlet Performance Matrix: A detailed tabular view comparing different store types (Supermarket Type 1, 2, 3, and Grocery Stores) against key metrics like Total Sales, Average Sales, and Item Visibility.
+
+6. Screenshot / Demos
+   this is what the dashboard looks like :-
+ Example : https://github.com/rajchavan00/Blinkit-Dashboard-Power-bi-/blob/main/Blinkit-Dashboard.png
