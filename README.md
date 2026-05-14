@@ -59,8 +59,9 @@ Strategic Expansion: By seeing the dominance of Tier 3 locations and Supermarket
 
 Consumer Preference Tracking: The breakdown of Low Fat vs. Regular items allows for targeted marketing campaigns and product procurement based on regional dietary trends.
 
-6. Dashboard Demo:-
-   ![Blinkit Sales Dashboard](https://raw.githubusercontent.com/rajchavan00/Blinkit-Dashboard-Power-bi-/refs/heads/main/Blinkit-Dashboard.png)
 
-6. Screenshots / Demos
-Here is a look at the interactive dashboard:
+
+6. Dashboard Demo:-
+   Here is a look at the interactive dashboard:
+   
+   ![Blinkit Sales Dashboard](https://raw.githubusercontent.com/rajchavan00/Blinkit-Dashboard-Power-bi-/refs/heads/main/Blinkit-Dashboard.png)
