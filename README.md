@@ -1,12 +1,12 @@
 Blinkit Sales Analytics
 
-Project Title / Headline
+## 1. Project Title / Headline
 🛒 Blinkit Sales Analytics: India's Last Minute App Dashboard A dynamic, interactive data visualization tool built to explore grocery delivery sales performance—focusing on item categories, outlet characteristics, and consumer purchasing preferences.
 
-2. Short Description / Purpose
+## 2. Short Description / Purpose
 The Blinkit Sales Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare sales metrics across different outlet sizes, location tiers, and product categories. The dashboard focuses on highlighting major retail metrics like total sales ($1.20M), average rating (3.92), fat content distribution, and historical outlet establishment trends. This tool is intended for use by retail analysts, supply chain managers, inventory planners, and data-driven strategists who seek to understand consumer behavior and outlet performance in the quick-commerce sector.
 
-3. Tech Stack
+## 3. Tech Stack
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -19,12 +19,12 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+## 4. Data Source
 Source: Kaggle (Blinkit Grocery Data).
 
 Data contains detailed records of over 9,000 retail items, including details on their fat content, item type, visibility, and sales figures. It also includes comprehensive outlet attributes such as size (Small, Medium, High), location tier (Tier 1, 2, 3), and establishment year (spanning from 2012 to 2022).
 
-5. Features / Highlights
+## 5. Features / Highlights
 Business Problem The quick-commerce and grocery delivery industry operates on thin margins and high volumes, yet operators often lack an intuitive way to identify which product categories and store setups yield the highest returns. Key questions such as: Which outlet types generate the most sales? Are consumers preferring low-fat or regular products? How does outlet location (Tier 1 vs Tier 3) affect revenue? ... are difficult to answer quickly with raw spreadsheet data.
 
 Goal of the Dashboard To deliver an interactive visual tool that:
@@ -61,7 +61,7 @@ Consumer Preference Tracking: The breakdown of Low Fat vs. Regular items allows 
 
 
 
-6. Dashboard Demo:-
+## 6. Dashboard Demo:-
    Here is a look at the interactive dashboard:
    
    ![Blinkit Sales Dashboard](https://raw.githubusercontent.com/rajchavan00/Blinkit-Dashboard-Power-bi-/refs/heads/main/Blinkit-Dashboard.png)
